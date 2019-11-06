@@ -18,8 +18,8 @@ Utilise l'algorithme AES.
 
 ### Chiffrement
 
-python3 SimpleCipher.py -i /chemin/vers/le/fichier/ou/répertoire
+`python3 SimpleCipher.py -i /chemin/vers/le/fichier/ou/répertoire`
 
 ### Déchiffrement
 
-python3 SimpleCipher.py -d /chemin/vers/le/fichier/ou/répertoire
+`python3 SimpleCipher.py -d /chemin/vers/le/fichier/ou/répertoire`
